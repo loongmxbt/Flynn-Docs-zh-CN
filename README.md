@@ -32,11 +32,11 @@ Layer 0 也包括了 [service discovery](/discoverd).
 
 **Layer 1** 是一套高层的组建，他使其能轻松的部署和维护应用程序和数据库。
 
-你可以访问 [Flynn website](https://flynn.io) 了解更多项目相关信息.
+你可以访问 [Flynn website](https://flynn.io) 了解更多项目相关信息。
 
 ### Status
 
-Flynn is in active development.
+Flynn 处于极速开发中。
 
 Users are encouraged to experiment with Flynn but should assume there are
 stability, security, and performance weaknesses throughout the project. This
@@ -50,14 +50,11 @@ anyone has already reported the issue.
 
 ### Run your own cluster
 
-If you want to setup and run your own Flynn cluster (either locally, on dedicated
-hardware or using a cloud provider) take a look at the
-[Installation Guide](https://flynn.io/docs/installation).
+如果你想要配置并运行你自己的 Flynn 集群 （无论是本地还是使用专门硬件或是云服务商），你可以参考[Installation Guide](https://flynn.io/docs/installation)。
 
 ### Deploying applications
 
-Check out the [Using Flynn](https://flynn.io/docs) guide for
-instructions on deploying and scaling applications.
+参见 [Using Flynn](https://flynn.io/docs) 教程如何部署和扩展应用。
 
 ## Components
 
