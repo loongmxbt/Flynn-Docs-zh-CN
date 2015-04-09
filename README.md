@@ -15,6 +15,8 @@ Flynn 包括内置数据库应用（目前仅有 Postgres 一种）。Flynn 是�
 
 Flynn components are divided into two _layers_.
 
+Flynn 组件被分为两层。
+
 **Layer 0** is a low-level resource framework inspired by the [Google
 Omega](http://eurosys2013.tudos.org/wp-content/uploads/2013/paper/Schwarzkopf.pdf)
 paper. Layer 0 also includes [service discovery](/discoverd).
@@ -23,6 +25,14 @@ paper. Layer 0 also includes [service discovery](/discoverd).
 maintain applications and databases.
 
 You can learn more about the project at the [Flynn website](https://flynn.io).
+
+**Layer 0** 是由 [Google
+Omega](http://eurosys2013.tudos.org/wp-content/uploads/2013/paper/Schwarzkopf.pdf) 论文启发的一个底层资源框架。
+Layer 0 也包括了 [service discovery](/discoverd).
+
+**Layer 1** 是一套高层的组建，他使其能轻松的部署和维护应用程序和数据库。
+
+你可以访问 [Flynn website](https://flynn.io) 了解更多项目相关信息.
 
 ### Status
 
